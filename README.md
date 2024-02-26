@@ -2,7 +2,7 @@
 # Real-Time-Data-Streaming-with-Kafka-and-AWS-Project
 
 
-In this project, I've crafted a real-time data analysis solution for swift insights into the dynamic financial landscape. Utilizing advanced technologies like Apache Kafka, AWS Glue, and Athena, the project aims to streamline data processing and empower decision-makers with timely information for navigating the complexities of stock markets.
+In this project, I've crafted a real-time data analysis solution for swift insights into the dynamic financial landscape. Utilizing advanced technologies like Apache Kafka, AWS Glue, and Athena, the project aims to streamline data processing and empower decision-makers with timely information for navigating the complexities.
 
 
 
